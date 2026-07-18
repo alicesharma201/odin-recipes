@@ -7,4 +7,4 @@ It features recipes for:
 - Brownies
 - Cold Coffee
 
-This website was built in html. Looking forward to further enchancements and updates :)
+This website was built in html and css. Looking forward to further enchancements and updates :)
